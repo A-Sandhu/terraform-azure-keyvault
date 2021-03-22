@@ -6,4 +6,4 @@ Here is the tasks list:
 
 2- Define remote state resources in main.tf file. 
 
-3- Create Azure Key vault secret. 
+3- Create Azure Key vault secret resources. 
