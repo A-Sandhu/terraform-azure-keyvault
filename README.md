@@ -1,4 +1,4 @@
-#Terroform on Azure
+#Terraform on Azure
 
 Here is the tasks list:
 
